@@ -19,4 +19,4 @@ while (True):
         if item in prices:
             quntity=input("enter the quantity :  ")
             if item in cart:
-                print("That  can be will be aproved  hii ")
+                print("That  can be will be aproved")
