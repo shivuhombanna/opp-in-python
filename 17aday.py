@@ -4,7 +4,6 @@ class BankAccount:
         self.__acc_bal=acc_bal
     def check_bal(self):
         return self.__acc_bal
-    
     def deposit(self,amount):
         if amount > 0:
             self.__acc_bal += amount
